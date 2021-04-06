@@ -1,0 +1,13 @@
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\bin\Debug\netcoreapp3.1\Matrices.exe
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\bin\Debug\netcoreapp3.1\Matrices.deps.json
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\bin\Debug\netcoreapp3.1\Matrices.runtimeconfig.json
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\bin\Debug\netcoreapp3.1\Matrices.runtimeconfig.dev.json
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\bin\Debug\netcoreapp3.1\Matrices.dll
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\bin\Debug\netcoreapp3.1\Matrices.pdb
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\obj\Debug\netcoreapp3.1\Matrices.AssemblyInfoInputs.cache
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\obj\Debug\netcoreapp3.1\Matrices.AssemblyInfo.cs
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\obj\Debug\netcoreapp3.1\Matrices.csproj.CoreCompileInputs.cache
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\obj\Debug\netcoreapp3.1\Matrices.dll
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\obj\Debug\netcoreapp3.1\Matrices.pdb
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\obj\Debug\netcoreapp3.1\Matrices.genruntimeconfig.cache
+D:\OneDrive\Skillbox\4.1_Исходники\Matrices\obj\Debug\netcoreapp3.1\Matrices.csprojAssemblyReference.cache

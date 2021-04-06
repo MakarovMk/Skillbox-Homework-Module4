@@ -1,0 +1,13 @@
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\obj\Debug\netcoreapp3.1\Triangle.csprojAssemblyReference.cache
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb
+D:\OneDrive\Skillbox\4.1_Исходники\Triangle\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
